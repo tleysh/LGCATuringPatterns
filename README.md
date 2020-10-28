@@ -4,7 +4,7 @@ Repo for Julia scripts needed for producing the results of the LGCA Turing patte
 
 StateSpaceProducer.jl - Produces the asymptotic state space for the 21 topologies. 
 
-CoreSimulator.jl - Contains the functionality to run the simulations of a given map. 
+SimulationFunctions.jl - Contains the functionality to run the simulations of a given map. 
 
 PowerSpectrum.jl - Contains the functionality to produce the power spectrum data for a given map. Dependency on CoreSimulator.jl 
 
