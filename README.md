@@ -6,7 +6,7 @@ StateSpaceProducer.jl - Produces the asymptotic state space for the 21 topologie
 
 SimulationFunctions.jl - Contains the functionality to run the simulations of a given map. 
 
-PowerSpectrum.jl - Contains the functionality to produce the power spectrum data for a given map. Dependency on CoreSimulator.jl 
+PowerSpectrum.jl - Contains the functionality to produce the power spectrum data for a given map. Dependency on SimulationFunctions.jl 
 
 SteadyStateFinder.jl - Uses numerical methods to find the steady states of the mean field approximated system of a given map.  
 
