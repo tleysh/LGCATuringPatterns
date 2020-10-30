@@ -13,3 +13,5 @@ SteadyStateFinder.jl - Uses numerical methods to find the steady states of the m
 LinearStabilityAnalysis.jl - Provides the dispersion relation of a given map using the steady states found using SteadyStateFinder.jl
 
 GridPlotter.jl - A script that plots the 3 trial simulations, the dispersion relation (using the first steady state if more than one) and the powerspectrum (using 100 trials) for a given map. 
+
+Above provides the ability to perform examples, the full data sets produced by these modules are available on request. 
